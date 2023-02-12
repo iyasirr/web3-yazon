@@ -67,7 +67,6 @@ function App() {
 
       <Header />
 
-      <Address />
       <h2>Yazon Best Sellers</h2>
 
       {electronics && clothing && toys && (
